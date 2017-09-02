@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: matos89@gmail.com
 copyright_name: matos89
 description: > # this means to ignore newlines until "baseurl:"
-  The processes that really slow down HR.
+  The processes that really slow down HR and how to fix them.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  matos89
