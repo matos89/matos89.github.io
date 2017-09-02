@@ -1,0 +1,21 @@
+# Site settings
+title: Why HR Teams Need Developers
+header-img: img/home-bg.png
+email: matos89@gmail.com
+copyright_name: matos89
+description: > # this means to ignore newlines until "baseurl:"
+  The processes that really slow down HR.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  matos89
+learn_profile: matos89
+email_username: matos89@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
